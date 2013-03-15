@@ -5,7 +5,6 @@ gem 'devise'
 gem 'bootstrap-sass'
 gem 'paypal_adaptive'
 gem 'country_select'
-gem 'configatron'
 
 group :development, :test do
   gem 'mysql2'
