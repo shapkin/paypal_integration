@@ -1,0 +1,23 @@
+development:
+  environment: "sandbox"
+  username: 
+  password: 
+  signature: 
+  application_id: "APP-80W284485P519543T"
+  #api_cert_file:
+
+test:
+  environment: "sandbox"
+  username: 
+  password: 
+  signature: 
+  application_id: "APP-80W284485P519543T"
+  #api_cert_file: "/path/to_cert"
+
+production:
+  environment: "sandbox"
+  username: 
+  password: 
+  signature: 
+  application_id: "APP-80W284485P519543T"
+  #api_cert_file: "/path/to_cert"
