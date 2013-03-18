@@ -1,10 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
-gem 'devise'
-gem 'bootstrap-sass'
 gem 'paypal_adaptive'
-gem 'country_select'
 
 group :development, :test do
   gem 'mysql2'

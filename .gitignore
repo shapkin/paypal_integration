@@ -7,11 +7,10 @@
 # Ignore bundler config
 /.bundle
 
-# Ignore the default SQLite database.
-/db/database.yml
-
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
 
+# Ignore configs
+/db/database.yml
 /config/paypal_adaptive.yml
