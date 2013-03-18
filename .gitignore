@@ -12,5 +12,5 @@
 /tmp
 
 # Ignore configs
-/db/database.yml
+/config/database.yml
 /config/paypal_adaptive.yml
